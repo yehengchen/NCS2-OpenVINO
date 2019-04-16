@@ -95,7 +95,7 @@ To validate OpenCV* installation, run the OpenCV deep learning module with the I
         
         wget --no-check-certificate https://download.01.org/opencv/2019/open_model_zoo/R1/models_bin/face-detection-adas-0001/FP16/face-detection-adas-0001.xml
     
-### 2. Create a new Python* file named as openvino_fd_myriad.py and copy the following script [[here]]()
+### 2. Create a new Python* file named as openvino_fd_myriad.py and copy the following script [[here]](https://github.com/yehengchen/NCS2-OpenVINO/blob/master/openvino_fd_myriad.py)
 ### 3. Run the script:
 
     python3 openvino_fd_myriad.py
