@@ -3,7 +3,7 @@
 
 ## Get Started
 
-#### openvino_toolkit_raspbi_p_2019.1.094.tgz - [[download]](https://download.01.org/opencv/2019/openvinotoolkit/)
+#### Download openvino_toolkit_raspbi_p_2019.1.094.tgz - [[download]](https://download.01.org/opencv/2019/openvinotoolkit/)
 
 #### Open the Terminal* or your preferred console application.
 
