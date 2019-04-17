@@ -1,7 +1,5 @@
 # Install OpenVINO™ toolkit for Raspbian* OS 
-#### [[OpenVINO toolkit]](https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_raspbian.html#install-package)
-
-## Get Started
+## Get Started - [[OpenVINO toolkit]](https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_raspbian.html#install-package)
 
 #### Download openvino_toolkit_raspbi_p_2019.1.094.tgz - [[download]](https://download.01.org/opencv/2019/openvinotoolkit/)
 
