@@ -1,6 +1,6 @@
 # Install OpenVINO™ toolkit for Raspbian* OS 
 ## Get Started - [[OpenVINO toolkit]](https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_raspbian.html#install-package)
-
+### run this script in your home directory by typing bash ./Install_openvino.sh
 ### Download openvino_toolkit_raspbi_p_2019.1.094.tgz - [[download]](https://download.01.org/opencv/2019/openvinotoolkit/)
 
 #### Open the Terminal* or your preferred console application.
