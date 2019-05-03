@@ -1,7 +1,7 @@
 #!/bin/bash
 # openvino installer for raspberry pi. This allows you to test the Intel Neural Compute Stick v2
 # based on https://software.intel.com/en-us/articles/OpenVINO-Install-RaspberryPI
-# assumes Raspberry Pi Raspbian Stretch November 2019
+# assumes Raspberry Pi Raspbian Stretch 2019
 # have had to replace "source" command with . because of sh issues when trying to migrate to docker
 # run this script in your home directory by typing bash ./Install_openvino.sh
 # after installing, it runs the c based face detect sample when finished but you will need a face.jpg image
