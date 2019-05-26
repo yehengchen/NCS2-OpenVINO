@@ -1,5 +1,5 @@
 # Install OpenVINO™ toolkit for Raspbian* OS 
-## Get Started - [[OpenVINO toolkit]](https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_raspbian.html#install-package)
+### Get Started - [[OpenVINO toolkit]](https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_raspbian.html#install-package)
 
 ### Run this script [./Install_openvino.sh](https://github.com/yehengchen/NCS2-OpenVINO/blob/master/Install_openvino.sh)
 *run this scrip you can install all package or follow the below guide to proceed with the installation.*  
